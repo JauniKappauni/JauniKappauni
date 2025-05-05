@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JauniKappauni
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate in the future
 - 📫 How to reach me Discord: jauni._.
 - 😄 Pronouns: he/him
