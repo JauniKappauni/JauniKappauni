@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in the future
 - 📫 How to reach me Discord: jauni._.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: why does my code work?
+- ⚡ Fun fact: why does my code !work?
 
 <!---
 JauniKappauni/JauniKappauni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
